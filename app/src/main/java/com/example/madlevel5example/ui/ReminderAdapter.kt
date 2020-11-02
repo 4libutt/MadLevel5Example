@@ -1,10 +1,10 @@
-package com.example.madlevel5example.Ui
+package com.example.madlevel5example.ui
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.madlevel5example.Model.Reminder
+import com.example.madlevel5example.model.Reminder
 import com.example.madlevel5example.R
 import kotlinx.android.synthetic.main.item_reminder.view.*
 
